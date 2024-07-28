@@ -1,0 +1,318 @@
+{
+  "users": [
+    {
+      "email": "mr9026573@gmail.com",
+      "password": "$2a$10$DhXKSZytLdCqvjmhMK3okOI1cHs9Wzoq1gfdT9xq84SiAhuaDeuV2",
+      "FirstName": "mahmoud",
+      "LastName": "Ramadna",
+      "id": 1
+    },
+    {
+      "email": "mr93s47894@gmail.com",
+      "password": "$2a$10$IRE0fU.yU00T3QBDgVBXBuAbqvaDAW8neUXuINdLHnEIx01ZVGta2",
+      "FirstName": "mahmoud",
+      "LastName": "Ramadna",
+      "id": 2
+    },
+    {
+      "email": "mr55555@gmail.com",
+      "password": "$2a$10$szX4l9zk9DbjYiBE5TojFuPYLoUgX4.9sQjJfebvyXpMxCXr9k2TW",
+      "FirstName": "osama",
+      "LastName": "saad",
+      "id": 3
+    },
+    {
+      "email": "aeas6010@gmail.com",
+      "password": "$2a$10$248jqabaMQIpj6eHLt/43.PAbwVfIRLhGMHpHmWEUsoRY8hipaKWK",
+      "FirstName": "mahmoud",
+      "LastName": "saad",
+      "id": 4
+    },
+    {
+      "email": "mr93s4789ads4fasda@gmail.com",
+      "password": "$2a$10$bQ/TCpNMNY9ZrxosAwszve4q2dgsGiOJDfRxhgv9WWlBe9pdIFXry",
+      "FirstName": "mahmoud",
+      "LastName": "asdfasdf",
+      "id": 5
+    },
+    {
+      "email": "mr9026adsasd573@gmail.com",
+      "password": "$2a$10$G5IO.hBm1kTA6YzZv88Dne4AsGKQSLHaoTdxeksysN2tddEvMJ0Nu",
+      "FirstName": "mahmoud",
+      "LastName": "Ramadna",
+      "id": 6
+    },
+    {
+      "email": "mr902657355@gmail.com",
+      "password": "$2a$10$oWWTwcMOUeN8okpBAmAEpuekaIQF4zeTobXuL74pcoZbi0C4YVqTa",
+      "FirstName": "mahmoud",
+      "LastName": "Ramadna",
+      "id": 7
+    },
+    {
+      "email": "mr902657dafdsasd333@gmail.com",
+      "password": "$2a$10$pYL26lhlZU751arvTvy6NOdU/YmQp0YAsAGIYKtNKeyx47qQdWfMS",
+      "FirstName": "mahmoud",
+      "LastName": "Ramadna",
+      "id": 8
+    },
+    {
+      "email": "mr902657333@gmail.comaa",
+      "password": "$2a$10$pbZGIWiuXBN3PLLMeKSzde8BJdCAGO5qUlSmaJHefK5bEAykY/Jfi",
+      "FirstName": "mahmoud",
+      "LastName": "asdfasdf",
+      "id": 9
+    },
+    {
+      "email": "mr9347894@gmail.com",
+      "password": "$2a$10$v.Z4wdKmLvfRrXubbeyiROuvOp6PIHhQmm8EGeacQs48RAoRvrofC",
+      "FirstName": "mahmoud",
+      "LastName": "Ramadna",
+      "id": 10
+    },
+    {
+      "email": "mr93s47895645474@gmail.com",
+      "password": "$2a$10$EAl4JpI8/EsTjUYRSrPl8uTepOy/pWCFE4YySa0CQAKBKaS.2ELkW",
+      "FirstName": "mahmoud",
+      "LastName": "Ramadna",
+      "id": 11
+    },
+    {
+      "email": "mr9347sss894@gmail.com",
+      "password": "$2a$10$jAX3f6bOPmdS4KRmwJB11uGMnn72o1hp6i3X/qRpE9RSS81Nh9jSu",
+      "FirstName": "hassan",
+      "LastName": "Ramadna",
+      "id": 12
+    },
+    {
+      "email": "mr56657656@gamil.com",
+      "password": "$2a$10$/PgMtS.U3gO.WVhYNgrNiOcLWsS90X6PjXLMH/cGIVqP9jKsruOeq",
+      "FirstName": "mahmoud",
+      "LastName": "Ramadna",
+      "id": 13
+    },
+    {
+      "email": "mr90265s73@gmail.com",
+      "password": "$2a$10$SkcklFC10IuROlP.Hglhk.qYq245RdE9os1GaBWQEyLNyJJA5hXTO",
+      "FirstName": "dAS",
+      "LastName": "Ramadna",
+      "id": 14
+    },
+    {
+      "email": "Amr9347894@gmail.com",
+      "password": "$2a$10$Sne98dkmPMfgJ/Ktl6zjCerTnYdun/OYv4ZRC4hgl5/uR1mmxhpPm",
+      "FirstName": "mahmoud",
+      "LastName": "asdfasdf",
+      "id": 15
+    },
+    {
+      "email": "amr9347894@gmail.com",
+      "password": "$2a$10$KG5FnsxMTlM2pvQmqgNYD.LyLvk8kmdHMShkxN1RtXs2bP3DmLYQm",
+      "FirstName": "mahmoud",
+      "LastName": "Ramadna",
+      "id": 16
+    },
+    {
+      "email": "aamr9347894@gmail.com",
+      "password": "$2a$10$fwLBhWEW/gJzrVBmO/.RJ.q/VjawiYjDzPg9OX6abC1vQHnCJllxq",
+      "FirstName": "mahmoud",
+      "LastName": "hossany6456465",
+      "id": 17
+    },
+    {
+      "email": "mr9026573ss@gmail.com",
+      "password": "$2a$10$oB/ufZUBz7ORUaVsghB56ez4JkQKSettn2AO1SLmwSw0j0axrY6Je",
+      "FirstName": "mahmoud",
+      "LastName": "Ramadna",
+      "id": 18
+    },
+    {
+      "email": "aeas6aaa010@gmail.com",
+      "password": "$2a$10$fsCYjjvCwSOgfqaclktH7uOeYaLFNNLSWI/vUedGrJzusmrJZD1ke",
+      "FirstName": "SDSas",
+      "LastName": "Ramadna",
+      "id": 19
+    },
+    {
+      "email": "mr9026573545@gmail.com",
+      "password": "$2a$10$dyoT0riI1umEFtnSkuy9e.8D59Px/DH42c8KUC18ykPrHFkxEQJ8K",
+      "FirstName": "mahmoud",
+      "LastName": "asdfasdf",
+      "id": 20
+    },
+    {
+      "email": "mr90265735@gmail.com",
+      "password": "$2a$10$2XqryFfBf6ERyribnzdiXeLgCh8Ii4n0W32G.rrhKokJmMXkM/aei",
+      "FirstName": "mahmoud",
+      "LastName": "ramadan",
+      "id": 21
+    },
+    {
+      "email": "mr93478945@gmail.com",
+      "password": "$2a$10$Oqs5nE0Ywc2M1A3VA1MgouwkPjxEdFhRzRdLoptYsDLd2G6RkluD2",
+      "FirstName": "mahmoud",
+      "LastName": "ramadan",
+      "id": 22
+    },
+    {
+      "email": "mr934789433@gmail.com",
+      "password": "$2a$10$CECuC0biqJemIIcDB8Z2Z.KohpqHjgOGxgPuFR.5PezAQQQhS/0iO",
+      "FirstName": "mahmoud",
+      "LastName": "ramadan",
+      "id": 23
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "title": "men",
+      "prefix": "men",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/cfb357649428__hp-w12-22032022-h_m-men.jpg"
+    },
+    {
+      "id": "2",
+      "title": "women",
+      "prefix": "women",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/30d354267a09b__hp-w12-22032022-h_m-women_dresses.jpg"
+    },
+    {
+      "id": "3",
+      "title": "kids",
+      "prefix": "kids",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/37d243d334c63__hp-w12-22032022-h_m-kids1.jpg"
+    },
+    {
+      "id": "4",
+      "title": "baby",
+      "prefix": "baby",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/28948d47ae6e8__h_m-w39-28092022-4066c-1x1.jpg"
+    },
+    {
+      "id": "5",
+      "title": "sport",
+      "prefix": "sport",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/1dda9ae79a671__h_m-w40-06102022-7416b-1x1.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Jersey top",
+      "price": 249,
+      "cat_prefix": "men",
+      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
+      "max": 4
+    },
+    {
+      "id": "2",
+      "title": "Regular Fit Jersey top",
+      "price": 229,
+      "cat_prefix": "men",
+      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
+      "max": 4
+    },
+    {
+      "id": "3",
+      "title": "Cotton polo shirt",
+      "price": 200,
+      "cat_prefix": "men",
+      "img": "https://eg.hm.com/assets/styles/HNM/13994073/eeb1d90c4764366000eb8b8571396e81f0de5c44/2/image-thumb__3142108__product_listing/4d6db9e8f936d3d82b13bc5861b0310fa214c74d.jpg",
+      "max": 3
+    },
+    {
+      "id": "4",
+      "title": "Cotton t-shirt",
+      "price": 100,
+      "cat_prefix": "women",
+      "img": "https://eg.hm.com/assets/styles/HNM/13650519/6cc34f51caee1d6cfe776b933d667075fa30d90d/2/image-thumb__2888777__product_listing/16c27492b022ac2eef03853f85d5b279a29ebeed.jpg",
+      "max": 2
+    },
+    {
+      "id": "5",
+      "title": "Sweatshirt shorts",
+      "price": 300,
+      "cat_prefix": "women",
+      "img": "https://eg.hm.com/assets/styles/HNM/12652575/3e316aab8ce1b596545d144d0efd362975b3856f/2/image-thumb__1998684__product_listing/48756e509aa05341e4a618ba4c1b0a5ce24ebcae.jpg",
+      "max": 3
+    },
+    {
+      "id": "6",
+      "title": "Velour top",
+      "price": 300,
+      "cat_prefix": "kids",
+      "img": "https://eg.hm.com/assets/styles/HNM/14478215/543d925539f4a3b92a79df2dfe46d5d481e1c7ae/2/image-thumb__3463278__product_listing/c1417d02c7a93e6d2aca7965003b4f7d490f0ae8.jpg",
+      "max": 2
+    },
+    {
+      "id": "9",
+      "title": "Pile all-in-one suit with ears",
+      "price": 500,
+      "cat_prefix": "baby",
+      "img": "https://eg.hm.com/assets/styles/HNM/10803913/c334b471ad8f564ed1b5dd410c95d94544ee0904/2/image-thumb__1594613__product_listing/5941e37dccc9b0172ac2ab7c266c1cd794cb547f.jpg",
+      "max": 2
+    },
+    {
+      "id": "17",
+      "title": "Regular Fit football shirt",
+      "price": 449,
+      "cat_prefix": "sport",
+      "img": "https://eg.hm.com/assets/styles/HNM/14472541/cb9d35f1480ce5c8b0be39ad7fd35ab9f8004ce0/2/image-thumb__3453052__product_listing/70408034bd9792a93abbc8ad322565337f535e24.jpg",
+      "max": 2
+    }
+  ],
+  "wishlist": [
+    {
+      "userId": 1,
+      "productId": "5",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "productId": "4",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "productId": "17",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "productId": "3",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "productId": "2",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "productId": "1",
+      "id": 6
+    }
+  ],
+  "orders": [
+    {
+      "userId": 1,
+      "items": [
+        {
+          "id": "1",
+          "title": "Jersey top",
+          "price": 249,
+          "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
+          "quantity": 1
+        },
+        {
+          "id": "17",
+          "title": "Regular Fit football shirt",
+          "price": 449,
+          "img": "https://eg.hm.com/assets/styles/HNM/14472541/cb9d35f1480ce5c8b0be39ad7fd35ab9f8004ce0/2/image-thumb__3453052__product_listing/70408034bd9792a93abbc8ad322565337f535e24.jpg",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 698,
+      "id": 5
+    }
+  ]
+}
